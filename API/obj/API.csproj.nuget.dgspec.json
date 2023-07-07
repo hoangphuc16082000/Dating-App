@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lehoangphuc/Desktop/datingAp/DatingApp/API/API.csproj": {}
+    "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/API.csproj": {}
   },
   "projects": {
-    "/Users/lehoangphuc/Desktop/datingAp/DatingApp/API/API.csproj": {
+    "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lehoangphuc/Desktop/datingAp/DatingApp/API/API.csproj",
+        "projectUniqueName": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/lehoangphuc/Desktop/datingAp/DatingApp/API/API.csproj",
+        "projectPath": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/API.csproj",
         "packagesPath": "/Users/lehoangphuc/.nuget/packages/",
-        "outputPath": "/Users/lehoangphuc/Desktop/datingAp/DatingApp/API/obj/",
+        "outputPath": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lehoangphuc/.nuget/NuGet/NuGet.Config"

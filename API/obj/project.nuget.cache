@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YbBgp0mytec/S3paZE3tPyni9sp+JljQLIPsc4QxKf/Ngbeuu2B8v7hWNep+0/Uhuo+raQ+HuQeO8lJXUkHOsg==",
+  "dgSpecHash": "/bMC/MX+AJ6KZ7n46x9P/8uqnxM4bfTbyuj54hwcVpR5LpB3HubdF9xu6gN6bmcULr2kMWwU2jNKJ8wGNIEFQg==",
   "success": true,
-  "projectFilePath": "/Users/lehoangphuc/Desktop/datingAp/DatingApp/API/API.csproj",
+  "projectFilePath": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/lehoangphuc/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/lehoangphuc/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
