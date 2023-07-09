@@ -1,9 +1,8 @@
 import { Injectable } from '@angular/core';
 import { CanActivate } from '@angular/router';
-import { Observable } from 'rxjs';
-import { AccountService } from '../_services/account.service';
 import { ToastrService } from 'ngx-toastr';
-import { map } from 'rxjs/operators';
+import { map, Observable } from 'rxjs';
+import { AccountService } from '../_services/account.service';
 
 @Injectable({
   providedIn: 'root',

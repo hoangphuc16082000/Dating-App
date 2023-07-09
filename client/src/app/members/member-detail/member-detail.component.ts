@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { Member } from 'src/app/_models/member';
-import { MembersService } from 'src/app/_services/members.service';
 import {
   NgxGalleryAnimation,
   NgxGalleryImage,
-  NgxGalleryModule,
+  NgxGalleryOptions,
 } from '@kolkov/ngx-gallery';
+import { Member } from 'src/app/_models/member';
+import { MembersService } from 'src/app/_services/members.service';
 
 @Component({
   selector: 'app-member-detail',
@@ -15,7 +15,7 @@ import {
 })
 export class MemberDetailComponent implements OnInit {
   member: Member | undefined;
-  galleryOptions: NgxGalleryModule[] = [];
+  galleryOptions: NgxGalleryOptions[] = [];
   galleryImages: NgxGalleryImage[] = [];
 
   constructor(
@@ -28,7 +28,7 @@ export class MemberDetailComponent implements OnInit {
 
     this.galleryOptions = [
       {
-        with: '500px',
+        width: '500px',
         height: '500px',
         imagePercent: 100,
         thumbnailsColumns: 4,

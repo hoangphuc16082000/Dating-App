@@ -5,8 +5,7 @@ import {
   HttpEvent,
   HttpInterceptor,
 } from '@angular/common/http';
-import { Observable } from 'rxjs';
-import { take } from 'rxjs/operators';
+import { Observable, take } from 'rxjs';
 import { AccountService } from '../_services/account.service';
 
 @Injectable()
