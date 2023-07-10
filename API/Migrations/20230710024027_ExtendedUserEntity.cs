@@ -17,19 +17,19 @@ namespace API.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    UserName = table.Column<string>(type: "TEXT", nullable: false),
-                    PasswordHash = table.Column<byte[]>(type: "BLOB", nullable: false),
-                    PasswordSalt = table.Column<byte[]>(type: "BLOB", nullable: false),
+                    UserName = table.Column<string>(type: "TEXT", nullable: true),
+                    PasswordHash = table.Column<byte[]>(type: "BLOB", nullable: true),
+                    PasswordSalt = table.Column<byte[]>(type: "BLOB", nullable: true),
                     DateOfBirth = table.Column<DateOnly>(type: "TEXT", nullable: false),
                     KnownAs = table.Column<string>(type: "TEXT", nullable: true),
                     Created = table.Column<DateTime>(type: "TEXT", nullable: false),
                     LastActive = table.Column<DateTime>(type: "TEXT", nullable: false),
-                    Gender = table.Column<string>(type: "TEXT", nullable: false),
-                    Introduction = table.Column<string>(type: "TEXT", nullable: false),
-                    LookingFor = table.Column<string>(type: "TEXT", nullable: false),
-                    Interests = table.Column<string>(type: "TEXT", nullable: false),
-                    City = table.Column<string>(type: "TEXT", nullable: false),
-                    Country = table.Column<string>(type: "TEXT", nullable: false)
+                    Gender = table.Column<string>(type: "TEXT", nullable: true),
+                    Introduction = table.Column<string>(type: "TEXT", nullable: true),
+                    LookingFor = table.Column<string>(type: "TEXT", nullable: true),
+                    Interests = table.Column<string>(type: "TEXT", nullable: true),
+                    City = table.Column<string>(type: "TEXT", nullable: true),
+                    Country = table.Column<string>(type: "TEXT", nullable: true)
                 },
                 constraints: table =>
                 {

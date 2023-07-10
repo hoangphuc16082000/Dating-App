@@ -11,7 +11,5 @@ export class MemberCardComponent implements OnInit {
 
   constructor() {}
 
-  ngOnInit(): void {
-    console.log('test', this.member);
-  }
+  ngOnInit(): void {}
 }
