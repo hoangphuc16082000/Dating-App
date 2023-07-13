@@ -78,7 +78,6 @@
 /Users/lehoangphuc/Desktop/datingAp/DatingApp/API/bin/Debug/net7.0/AutoMapper.dll
 /Users/lehoangphuc/Desktop/datingAp/DatingApp/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/appsettings.Development.json
-/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/appsettings.json
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/Data/UserSeedData.json
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/API
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/API.deps.json
@@ -164,3 +163,4 @@
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/bin/Debug/net7.0/appsettings.json

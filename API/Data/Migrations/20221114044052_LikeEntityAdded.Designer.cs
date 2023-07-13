@@ -8,17 +8,17 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace API.Migrations
+namespace API.Data.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20230710155139_LikeEntityAdded")]
+    [Migration("20221114044052_LikeEntityAdded")]
     partial class LikeEntityAdded
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "7.0.8");
+            modelBuilder.HasAnnotation("ProductVersion", "7.0.0-rc.2.22472.11");
 
             modelBuilder.Entity("API.Entities.AppUser", b =>
                 {
@@ -129,7 +129,7 @@ namespace API.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("API.Entities.AppUser", "TargetUser")
+                    b.HasOne("API.Entities.AppUser", "TargerUser")
                         .WithMany("LikedByUsers")
                         .HasForeignKey("TargetUserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -137,7 +137,7 @@ namespace API.Migrations
 
                     b.Navigation("SourceUser");
 
-                    b.Navigation("TargetUser");
+                    b.Navigation("TargerUser");
                 });
 
             modelBuilder.Entity("API.Entities.AppUser", b =>
