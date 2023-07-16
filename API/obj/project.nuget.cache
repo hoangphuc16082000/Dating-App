@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X5DMer7nDkTwPXXVCrfhThJmPj987cumOPPlbdhlKRN9baSnAbTAFD6nuDby5Qe17NhIM97VRYFpR1TDLDaWew==",
+  "dgSpecHash": "3EY0OoLd3AYe1uceHHrnJJc2dpjwBLyoRUZiMgl9doKTyEVO+cnbfudaw4N7sJ0cOIj35J9I+4S4QVOMMyxHNQ==",
   "success": true,
   "projectFilePath": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/API.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,8 @@
     "/Users/lehoangphuc/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/Users/lehoangphuc/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/Users/lehoangphuc/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/lehoangphuc/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
+    "/Users/lehoangphuc/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.4/npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "/Users/lehoangphuc/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "/Users/lehoangphuc/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
     "/Users/lehoangphuc/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",

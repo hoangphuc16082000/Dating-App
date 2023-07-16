@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/assets/user.png",
+      "PackagePath": "staticwebassets/assets/user.png"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets/fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets/fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets/fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets/fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets/fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/main.2f1fb8b5f5f1c28f.js",
+      "PackagePath": "staticwebassets/main.2f1fb8b5f5f1c28f.js"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/polyfills.7f98574c8bab9a70.js",
+      "PackagePath": "staticwebassets/polyfills.7f98574c8bab9a70.js"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/runtime.7ae29a296d479790.js",
+      "PackagePath": "staticwebassets/runtime.7ae29a296d479790.js"
+    },
+    {
+      "Id": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/styles.f8b1872817e00abf.css",
+      "PackagePath": "staticwebassets/styles.f8b1872817e00abf.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
