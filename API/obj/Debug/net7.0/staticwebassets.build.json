@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t2bJoFlEtvu1JhrhvbZAMdnquPoSwztd5w78hplS09Y=",
+  "Hash": "pKHllieYStWWArWZn9axYObzSgTaGRrBYWQK2go4b5E=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -170,12 +170,12 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/main.5f9ff71ae6ad49bc.js",
+      "Identity": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/main.b11276a296da1179.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/",
       "BasePath": "_content/API",
-      "RelativePath": "main.5f9ff71ae6ad49bc.js",
+      "RelativePath": "main.b11276a296da1179.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/main.5f9ff71ae6ad49bc.js"
+      "OriginalItemSpec": "wwwroot/main.b11276a296da1179.js"
     },
     {
       "Identity": "/Users/lehoangphuc/Desktop/net--angular/Dating-App/API/wwwroot/polyfills.7f98574c8bab9a70.js",
